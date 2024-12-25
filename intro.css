@@ -363,7 +363,7 @@ body{
 }
 @keyframes number1{
     0%{
-        top: -400px;
+        top: -300px;
         left: -100px;
         transform: rotate(15deg);
         /* transform-origin: left; */
@@ -1137,7 +1137,7 @@ body{
 }
 .cat img{
     width: 190px;
-    margin-top: -5rem;
+    margin-top: -2rem;
 }
 .box-rim{
     position: absolute;
